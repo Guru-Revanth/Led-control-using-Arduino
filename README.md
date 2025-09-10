@@ -1,7 +1,7 @@
-# Led-control-using-Arduino
+### NAME : GURU REVANTH KUMARAVEL RADHIKA
+### REG NO : 212223230065
 
-#### NAME : GURU REVANTH KUMARAVEL RADHIKA
-#### REG NO : 212223230065
+#  EX.NO : 1    Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -61,7 +61,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![1exp](https://github.com/user-attachments/assets/0a85d7fd-b313-4dde-9232-4dbd346ba76c)
+<img width="1163" height="677" alt="op" src="https://github.com/user-attachments/assets/0790ffc6-f17f-4fac-b521-dd35bbb885da" />
 
 ## PROGRAM
 ```python
@@ -94,4 +94,4 @@ void loop()
 ![1](https://github.com/user-attachments/assets/2d51df8a-60e7-4a6a-8dd9-075afb5e9e02)
 
 ## RESULT
-A system for LED control using an Arduino microcontroller and a push button is implemented.
+The design and implement a system for LED control using an Arduino microcontroller and a push button has completed and verified successfully.
